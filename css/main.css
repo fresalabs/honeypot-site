@@ -2621,3 +2621,8 @@ footer a:active {
 	}
 
 }
+
+#privacy-content-wrap, #privacy-content-wrap h3, #privacy-content-wrap th  {
+	color: rgba(255, 255, 255, 0.8);
+}
+
