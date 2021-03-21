@@ -2514,6 +2514,7 @@ footer a:active {
 
 .copyright span {
 	display: inline-block;
+	color: white;
 }
 
 .copyright span::after {
